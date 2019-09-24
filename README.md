@@ -11,7 +11,7 @@ These are things you must know to understand the script:
 #############################
 # To Run the program:
 1. Download the repository in a machine with Python installed.
-2. Run the script from the command line using "python <name of the program>"
+2. Run the script from the command line using "python \<name of the program\>"
 3. Pass in the proper arguments as listed below 
 
 #############################
